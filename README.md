@@ -1,1 +1,2 @@
-# flexbox_image_gallery_task
+Flexbox Image Gallery
+This is a simple image gallery project built using HTML and CSS Flexbox.
